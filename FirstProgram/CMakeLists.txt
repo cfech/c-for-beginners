@@ -3,4 +3,4 @@ project(c_programming_for_beginners C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(c_programming_for_beginners FirstProgram/main.c FirstProgram/cli.c)
+add_executable(c_programming_for_beginners main.c)
