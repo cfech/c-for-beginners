@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
-
     double width = 10;
     double height = 10;
 
