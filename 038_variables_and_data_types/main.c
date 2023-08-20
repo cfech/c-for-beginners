@@ -42,7 +42,7 @@ int main() {
     // max int value normally is: 2147483647
     long int myLongInt = 2147483648;
 
-    // Unsigned says it will nto have a negative sign, hence freein up more memory to be used
+    // Unsigned says it will not have a negative sign, hence freeing up more memory to be used
     unsigned int myUnsignedInt = 10;
 
     // Can store data for floating point numbers

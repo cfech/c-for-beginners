@@ -1,0 +1,1 @@
+void goto_example();
